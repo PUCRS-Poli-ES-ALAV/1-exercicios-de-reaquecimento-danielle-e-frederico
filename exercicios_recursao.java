@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class exercicios_recursao()
-{
+public class exercicios_recursao {
 
     public static void main(String args[]){
         System.out.println(mul(6,4));
